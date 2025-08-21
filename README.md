@@ -1,4 +1,4 @@
-# Financial-Economic-Analytics-of-Bitcoin
+# Bitcoin Forecasting with ML & Economic Indicators
 
 
 – Conducted a comprehensive analysis of Bitcoin’s functions as a medium of exchange,store of value, examined its alignment
